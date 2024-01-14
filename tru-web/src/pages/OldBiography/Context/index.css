@@ -1,0 +1,18 @@
+/* index.css */
+body {
+    background-color: #FEF5E9;
+    font-family: 'Courier, monospace';
+    text-align: center;
+    font-size: 2em;
+ }
+ .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Set the container to the full viewport height for centering */
+    margin-top: 5%;
+ }
+ 
+ .centered-content {
+    text-align: center;
+ }

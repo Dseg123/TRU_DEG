@@ -1,0 +1,13 @@
+/* index.css */
+body {
+    background-color: #FEF5E9;
+    font-family: 'Courier, monospace';
+    text-align: center;
+    font-size: 2em;
+ }
+ .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+ } 
